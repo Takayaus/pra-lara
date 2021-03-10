@@ -5,7 +5,7 @@
   <title>My First Page</title>
 </head>
 <body>
-  <h2>Hello World from blade!!</h2>
-  <p>{{date("Y/m/d H:i:s")}}</p>
+  <p>{{$hello}}</p>
+  <p>{{$hello1}}</p>
 </body>
 </html>
